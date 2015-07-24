@@ -1,0 +1,1 @@
+This project run for processing RDF files on GPU.
